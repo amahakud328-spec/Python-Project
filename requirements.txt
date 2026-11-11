@@ -1,0 +1,5 @@
+cryptography>=42.0
+SpeechRecognition>=3.10
+pyttsx3>=2.90
+# Optional microphone backend for voice typing (may require a Windows wheel):
+# PyAudio>=0.2.14
